@@ -18,7 +18,7 @@ export function PortfolioFloatingDock() {
     },
     {
       title: "Resume",
-      href: "https://firebasestorage.googleapis.com/v0/b/resume-builder-2024-3d12f.appspot.com/o/resume%2FResume_Alkush.pdf?alt=media&token=03f9d017-a106-47ed-b5b2-0c6d1a94fee0",
+      href: "https://drive.google.com/file/d/1xdpjmTaGmTM3aMvBxsiz73IPpry_mU3X/view?usp=sharing",
       icon: <FileText {...iconProps} />,
     },
     {
